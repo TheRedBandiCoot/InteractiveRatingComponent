@@ -69,6 +69,7 @@ body{
     border-style: none;
     background-color: var(--prime-darkblue-color);  
     color: var(--prime-mediumgrey-color);
+    transition: 0.5s;
 } 
 
 .numbers:hover{
@@ -108,6 +109,7 @@ body{
     color: var(--prime-white-color);
     background-color: var(--prime-orange-color);
     transform: scale(1);
+    transition: 0.5s;
 }
 
 .ani{
